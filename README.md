@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Kumawat" alt="Typing SVG" />
+   hi, I am Mohit Kumawat
 </p>
 
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 

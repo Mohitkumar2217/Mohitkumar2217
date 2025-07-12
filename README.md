@@ -6,19 +6,19 @@
 <h3 align="center">A Student of computer science in NIT srinagar</h3>
 
 <p align="center">
-  🔭 I’m currently working on <b>full-stack web development projects</b><br>
-  🌱 I’m currently learning <b>Advanced Node.js & Express.js</b><br>
-  👯 I’m looking to collaborate on <b>Open Source and Web Dev Projects</b><br>
-  💬 Ask me about <b>C, C++, JavaScript, Node.js</b><br>
-  📫 How to reach me: <b>mohitkumawat221004@gmail.com</b><br>
+  🔭 I’m currently working on <b>full-stack web development projects</b><br><br>
+  🌱 I’m currently learning <b>Advanced Node.js & Express.js</b><br><br>
+  👯 I’m looking to collaborate on <b>Open Source and Web Dev Projects</b><br><br>
+  💬 Ask me about <b>C, C++, JavaScript, Node.js</b><br><br>
+  📫 How to reach me: <b>mohitkumawat221004@gmail.com</b><br><br>
   ⚡ Fun fact: <b>I love solving real-world problems with code</b>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
-</p>
 
 ### 🛠️ Languages and Tools:
 

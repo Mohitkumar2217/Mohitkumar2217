@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 
-  <a href="https://www.hackerrank.com/mohitkumwat2211" target="_blank">
+  <a href="https://www.hackerrank.com/mohitkumawat2211" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
@@ -79,9 +79,9 @@
 
 ### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitkumawat&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkumawat&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumawat&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar2217&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar2217&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkumar2217&layout=compact&theme=default" />
 </p>
 
 ---

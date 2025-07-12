@@ -35,12 +35,12 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   
-  <a href="https://codeforces.com/profile/Ammohit22" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-
   <a href="https://www.hackerrank.com/profile/mohitkumawat2211" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/Ammohit22" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
@@ -52,6 +52,7 @@
   <a href="https://www.linkedin.com/in/mohit-kumawat-889202374" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
+  <span>    </span>
   <a href="mailto:Mohitkumawat221004@email.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />
   </a>

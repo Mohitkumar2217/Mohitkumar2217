@@ -2,11 +2,8 @@
    hi, I am Mohit Kumawat
 </p>
 
-<h3 align="center">A passionate developer from India</h3>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
-</p>
+<h3 align="center">A passionate developer from Rajasthan, India</h3>
+<h3 align="center">A Student of computer science in NIT srinagar</h3>
 
 <p align="center">
   🔭 I’m currently working on <b>full-stack web development projects</b><br>
@@ -18,6 +15,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
 ### 🛠️ Languages and Tools:
 

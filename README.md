@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left" style="display:flex;">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
@@ -56,16 +56,9 @@
 ---
 
 ### 📈 GitHub Stats:
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitkumawat&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkumawat&theme=default" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumawat&layout=compact&theme=default" />
 </p>
 

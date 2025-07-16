@@ -77,13 +77,13 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="left">
+## 🔥 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar2217&show_icons=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar2217&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkumar2217&layout=compact&theme=dark" />
 </p>
-
 ---
 
 ### 📫 Connect with Me:

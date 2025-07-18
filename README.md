@@ -29,6 +29,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   </span>
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="C++"/>
+  </span>
+  <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
   </span>
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">

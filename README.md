@@ -5,7 +5,7 @@
 <h3 align="center">A Student of computer science in NIT srinagar</h3>
 
 <p align="center">
-  🔭 I’m currently working on <b>web development projects</b><br><br>
+<!--   🔭 I’m currently working on <b>web development projects</b><br><br> -->
   🌱 I’m currently learning <b>Advanced Java, Node.js & Express.js</b><br><br>
 <!--   👯 I’m looking to collaborate on <b>Open Source and Web Dev Projects</b><br><br> -->
   💬 Ask me about <b>C, C++, JavaScrip, Node.js</b><br><br>

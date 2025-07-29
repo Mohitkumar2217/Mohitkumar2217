@@ -8,7 +8,7 @@
 <!--   🔭 I’m currently working on <b>web development projects</b><br><br> -->
   🌱 I’m currently learning <b>Advanced Java, Node.js & Express.js</b><br><br>
 <!--   👯 I’m looking to collaborate on <b>Open Source and Web Dev Projects</b><br><br> -->
-  💬 Ask me about <b>C, C++, JavaScrip, Node.js</b><br><br>
+  💬 Ask me about <b>C, C++, JavaScript, Node.js</b><br><br>
   📫 How to reach me: <b>mohitkumawat221004@gmail.com</b><br><br>
   ⚡ Fun fact: <b>I love solving real-world problems with code</b>
 </p>

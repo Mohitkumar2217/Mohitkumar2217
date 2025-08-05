@@ -1,4 +1,4 @@
-### Hi, I am Mohit Kumawat
+<h1 align="center" >  Hi, I am Mohit Kumawat </h1>
 ---
 
 <h3 align="center">A passionate programer from Rajasthan, India</h3>

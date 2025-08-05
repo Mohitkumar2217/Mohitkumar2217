@@ -1,7 +1,7 @@
 <h1 align="center" >  Hi, I am Mohit Kumawat </h1>
 ---
 
-<h3 align="center">A passionate programer from Rajasthan, India</h3>
+<h3 align="center">A passionate programer</h3>
 <h3 align="center">A Student of computer science in NIT srinagar</h3>
 
 <p align="center">

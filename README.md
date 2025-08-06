@@ -88,11 +88,9 @@
   <a href="https://github.com/Mohitkumar2217" target="_blank">
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
   </a>
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar2217&show_icons=true&theme=dark" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar2217&theme=dark" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkumar2217&layout=compact&theme=dark" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar2217&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkumar2217&layout=compact&theme=dark" />
 </p>
 ---
 

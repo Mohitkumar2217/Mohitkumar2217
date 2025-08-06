@@ -77,7 +77,7 @@
   </a>
   
   <a href="https://www.codechef.com/users/mohitkumars" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-2EC866?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-FFD700?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
@@ -86,7 +86,7 @@
 ## 🔥 GitHub Stats
 <p align="center"> 
   <a href="https://github.com/Mohitkumar2217" target="_blank">
-    <img src="https://img.shields.io/badge/Github-2EC866?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
   </a>
 </p>
 <p align="left">

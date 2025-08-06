@@ -75,6 +75,10 @@
   <a href="https://www.hackerrank.com/mohitkumawat2211" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
+  
+  <a href="https://www.codechef.com/users/mohitkumars" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-2EC866?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
 </p>
 
 ---

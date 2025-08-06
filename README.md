@@ -43,10 +43,10 @@
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   </span>
-  <span style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  <span style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; display: inline-block; border: 1px solid #E0E0E0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
 </span>
-<span style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; display: inline-block; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+<span style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; display: inline-block; border: 1px solid #E0E0E0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </span>
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">

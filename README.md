@@ -43,9 +43,10 @@
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   </span>
+  
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
-  <img src="https://www.svgrepo.com/show/493743/express.svg" width="40" height="40" alt="Express.js"/>
-</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" width="40" height="40" alt="Express.js"/>
+  </span>
 
 <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" alt="GitHub"/>

@@ -56,7 +56,7 @@
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40" alt="Postman"/>
   </span>
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40" alt="EJS"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-EJS-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" height="40" alt="EJS"/>
   </span>
 </p>
 

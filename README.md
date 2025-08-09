@@ -44,10 +44,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   </span>
   <span style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; display: inline-block; border: 1px solid #E0E0E0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://www.stickpng.com/assets/images/58480979cef1014c0b5e4901.png" width="40" height="40" alt="Express.js"/>
 </span>
 <span style="background-color: #FFFFFF; padding: 10px; border-radius: 10px; display: inline-block; border: 1px solid #E0E0E0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://www.stickpng.com/assets/images/5847f98fcef1014c0b5e48c8.png" width="40" height="40" alt="GitHub"/>
 </span>
   <span style="background-color: #ffffff; padding: 10px; border-radius: 10px; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>

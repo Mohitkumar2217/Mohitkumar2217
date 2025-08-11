@@ -1,35 +1,4 @@
-## 🔥 GitHub Stats
-<!-- <p align="center"> 
-  <a href="https://github.com/Mohitkumar2217" target="_blank">
-    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
-  </a>
-</p> -->
-  <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=Mohitkumar2217&show_icons=true&theme=dark" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar2217&theme=dark" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitkumar2217&layout=compact&theme=dark" />
-  </p>
----
-
-### 📫 Connect with Me:
-
-<p align="center">
-  <a href="mailto:mohitkumawat221004@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email" />
-  </a>
-  <p>
-
-    
-  </p>
-  <a href="https://www.linkedin.com/in/mohit-kumawat-889202374" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
-  </a>
-</p>
-
-
----
-
-## 💫 Hi, I'm Mohit Kumawat
+## <h1 align="center">💫 Hi, I'm Mohit Kumawat<h1>
 
 <h3 align="center">🚀 Passionate Programmer | 🎓 Computer Science Student at NIT Srinagar</h3>
 

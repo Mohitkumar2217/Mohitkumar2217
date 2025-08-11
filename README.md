@@ -1,28 +1,3 @@
-
----
-
-### 💻 Coding Profiles:
-
-<p align="center">
-  <a href="https://leetcode.com/mohit16user" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/Ammohit22" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-
-  <a href="https://www.hackerrank.com/mohitkumawat2211" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  
-  <a href="https://www.codechef.com/users/mohitkumars" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-FFD700?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
-
----
-
 ## 🔥 GitHub Stats
 <!-- <p align="center"> 
   <a href="https://github.com/Mohitkumar2217" target="_blank">

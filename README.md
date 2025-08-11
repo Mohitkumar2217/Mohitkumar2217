@@ -106,6 +106,10 @@
   <a href="mailto:mohitkumawat221004@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email" />
   </a>
+  <p>
+
+    
+  </p>
   <a href="https://www.linkedin.com/in/mohit-kumawat-889202374" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>

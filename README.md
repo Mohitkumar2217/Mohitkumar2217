@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Programmer | 🎓 Computer Science Student at NIT Srinagar</h3>
 
 <p align="center">
-  🌱 Currently i'm diving deep into <b>Advanced Java, Node.js & Express.js</b><br><br>
+  🌱 Currently diving deep into <b>Advanced Java, Node.js & Express.js</b><br><br>
   💬 Ask me about <b>C, C++, JavaScript, Node.js</b><br><br>
   📫 Reach me at: <b>mohitkumawat221004@gmail.com</b><br><br>
   ⚡ Fun fact: <b>I love solving real-world problems through code</b>

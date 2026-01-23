@@ -85,7 +85,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://my-prtfolio-site.vercel.app/" target="_blank" title="Portfolio">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/profile/profile-original.svg" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="Devicon Logo" width="30" height="30" />
   </a>
 </p>
 

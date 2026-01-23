@@ -83,6 +83,10 @@
   <a href="https://www.linkedin.com/in/mohit-kumawat-889202374" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://my-prtfolio-site.vercel.app/" target="_blank" title="Portfolio">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portfolio/portfolio-original.svg" width="30" />
+  </a>
 </p>
 
 ---

@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/CodeChef-FFD700?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/Ammohit22" target="_blank" title="CodeForces Profile">
-    <img src="https://img.shields.io/badge/CodeForces-FFD700?style=for-the-badge&logo=CodeForces&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeForces-FF0000?style=for-the-badge&logo=CodeForces&logoColor=white" />
   </a>
 </p>
 

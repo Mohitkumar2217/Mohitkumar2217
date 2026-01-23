@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Programmer | 🎓 Computer Science Student at NIT Srinagar</h3>
 
 <p align="center">
-  🌱 Currently diving deep into <b>Advanced Java, Node.js & Express.js</b><br><br>
+  🌱 Currently diving deep into <b>React, Node.js & Express.js</b><br><br>
 <!--   🌱 Currently study <b>python as collage course</b><br><br> -->
   💬 Ask me about <b>C, C++, JavaScript, Node.js</b><br><br>
   📫 Reach me at: <b>mohitkumawat221004@gmail.com</b><br><br>
@@ -53,6 +53,9 @@
   </a>
   <a href="https://www.codechef.com/users/mohitkumars" target="_blank" title="CodeChef Profile">
     <img src="https://img.shields.io/badge/CodeChef-FFD700?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Ammohit22" target="_blank" title="CodeForces Profile">
+    <img src="https://img.shields.io/badge/CodeForces-FFD700?style=for-the-badge&logo=CodeForces&logoColor=white" />
   </a>
 </p>
 

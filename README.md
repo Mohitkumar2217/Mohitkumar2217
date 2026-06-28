@@ -36,9 +36,9 @@
   <img src="https://img.icons8.com/color/96/ejs.png" width="40" title="EJS" />
 </p>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #f9f9f9; padding: 20px; border-radius: 15px;">
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="40" title="Render" />  
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" title="GitHub" /> 
+  <img src="https://www.svgrepo.com/show/475654/vercel-color.svg" width="40" title="GitHub" /> 
+  <img src="https://www.svgrepo.com/show/475654/render-color.svg" width="40" title="GitHub" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="Postgres SQL" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" /> 

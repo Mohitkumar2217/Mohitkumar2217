@@ -37,9 +37,8 @@
 </p>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #f9f9f9; padding: 20px; border-radius: 15px;">
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intelij/intelij-original.svg" width="40" title="Intelij" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original.svg" width="40" title="Postgres" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="Postgres SQL" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" /> 
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" title="Postman" />
 </p>

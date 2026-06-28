@@ -24,7 +24,7 @@
 
 # 💫 About Me
 
-<img align="right" width="500" height="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 - 🎓 B.Tech CSE Student at **NIT Srinagar**
 

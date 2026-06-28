@@ -18,7 +18,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; background-color: #f9f9f9; padding: 20px; border-radius: 15px;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #f9f9f9; padding: 20px; border-radius: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
@@ -32,9 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Golang" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-color.svg" width="40" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="VS Code" />
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" title="Postman" />
   <img src="https://img.icons8.com/color/96/ejs.png" width="40" title="EJS" />
 </p>

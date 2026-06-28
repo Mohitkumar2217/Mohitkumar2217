@@ -61,31 +61,6 @@ Express.js
 React
 SQL
 ```
----
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:mohitkumawat221004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohit-kumawat-889202374">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://my-prtfolio-site.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
-<a href="https://github.com/Mohitkumar2217">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
----
-
 # 💻 Coding Profiles
 
 <p align="center">
@@ -258,24 +233,25 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 ---
 
-# 🤝 Let's Connect
+---
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:mohitkumawat221004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohit-kumawat-889202374">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Mohitkumar2217">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://my-prtfolio-site.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+<a href="https://github.com/Mohitkumar2217">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>

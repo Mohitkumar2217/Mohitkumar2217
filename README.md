@@ -167,13 +167,7 @@ SQL
 
 ⬜ System Design
 
-⬜ Open Source Contributions
-
-⬜ Crack MAANG
-
-⬜ Build SaaS Product
-
-⬜ 1000+ LeetCode Problems
+⬜ Open Source Contributions 
 
 ---
 
@@ -204,9 +198,9 @@ SQL
 ---
 # 🎓 Education
 
-| Degree | Institute | Year |
-|---------|-----------|------|
-| B.Tech in Computer Science & Engineering | NIT Srinagar | 2023 - 2027 |
+| Degree  |   Institute  |    Year  |
+|---------|--------------|----------|
+| B.Tech in Computer Science & Engineering           | NIT Srinagar           | 2023 - 2027          |
 
 ---
  
@@ -230,8 +224,6 @@ Interested in:
 # ❤️ Support
 
 If you like my work, consider giving a ⭐ to my repositories.
-
----
 
 ---
 # 🌐 Connect With Me

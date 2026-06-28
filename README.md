@@ -33,15 +33,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Golang" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
-  <img src="https://img.icons8.com/color/96/ejs.png" width="40" title="EJS" />
+  <img src="https://img.icons8.com/color/96/ejs.png" width="40" title="EJS" />\
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
 </p>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #f9f9f9; padding: 20px; border-radius: 15px;">
-  <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" title="GitHub" /> 
-  <img src="https://www.svgrepo.com/show/475654/vercel-color.svg" width="40" title="GitHub" /> 
-  <img src="https://www.svgrepo.com/show/475654/render-color.svg" width="40" title="GitHub" /> 
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" title="GitHub" />  
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" title="Vercel" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" title="Render" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="Postgres SQL" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" title="Postman" />
 </p>
 

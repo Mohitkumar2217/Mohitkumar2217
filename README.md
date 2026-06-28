@@ -1,9 +1,9 @@
 ## <h1 align="center">💫 Hi, I'm Mohit Kumawat<h1>
 
-<h3 align="center">🚀 Passionate Programmer | 🎓 Computer Science Student at NIT Srinagar</h3>
+<h3 align="center">🚀 Software Developer | Passionate Programmer | 🎓 Computer Science Student at NIT Srinagar</h3>
 
 <p align="center">
-  🌱 Currently diving deep into <b>React, Node.js & Express.js</b><br><br>
+  🌱 Currently diving deep into <b>React, Node.js & Express.js, Gen AI</b><br><br>
 <!--   🌱 Currently study <b>python as collage course</b><br><br> -->
   💬 Ask me about <b>C, C++, JavaScript, Node.js</b><br><br>
   📫 Reach me at: <b>mohitkumawat221004@gmail.com</b><br><br>
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="TailwindCss" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" width="40" title="Golang" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />

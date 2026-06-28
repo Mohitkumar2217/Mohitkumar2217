@@ -138,28 +138,8 @@ SQL
 ✔ System Design               ✔ Gen AI                ✔ AWS
 ```
 
----
-
-# 🎯 Goals For 2026
-
-- ✅ Master MERN Stack
-
-- ✅ Learn AWS
-
-- ✅ Contribute to Open Source
-
-- ✅ Crack Top Product Companies
-
----
-
-# 💡 Favorite Quote
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-
-— Harold Abelson
-
----
-
+--- 
+ 
 # ⚡ Fun Facts
 
 - 💻 Coffee + Coding = ❤️
@@ -194,17 +174,7 @@ SQL
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitkumar2217&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohitkumar2217&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
+ 
 ---
 # 📅 2026 Roadmap
 
@@ -280,29 +250,7 @@ Interested in:
 - Documentation
 - Bug Fixes
 
----
-  
-# 📅 GitHub Calendar
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Mohitkumar2217&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Mohitkumar2217/Mohitkumar2217/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** To make the snake animation work, you need to add a GitHub Actions workflow that generates the SVG automatically.
-
----
+--- 
 
 # ❤️ Support
 

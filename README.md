@@ -61,15 +61,7 @@ Express.js
 React
 SQL
 ```
-
-- 📧 Email
-
-```
-mohitkumawat221004@gmail.com
-```
-
 ---
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -139,38 +131,18 @@ mohitkumawat221004@gmail.com
 # 📚 Currently Learning
 
 ```text
-✔ Advanced Backend
+✔ Advanced Backend            ✔ PostgreSQL            ✔ Docker
 
-✔ PostgreSQL
+✔ Kubernetes                  ✔ Redis                 ✔ Microservices
 
-✔ Docker
-
-✔ Kubernetes
-
-✔ Redis
-
-✔ Microservices
-
-✔ System Design
-
-✔ Gen AI
-
-✔ AWS
+✔ System Design               ✔ Gen AI                ✔ AWS
 ```
 
 ---
 
 # 🎯 Goals For 2026
 
-- ✅ 1000+ DSA Problems
-
-- ✅ Expert @ Codeforces
-
-- ✅ 5⭐ HackerRank
-
 - ✅ Master MERN Stack
-
-- ✅ Learn Kubernetes
 
 - ✅ Learn AWS
 
@@ -234,247 +206,6 @@ mohitkumawat221004@gmail.com
 </p>
 
 ---
-
-# 🏅 Achievements
-
-🏆 700+ DSA Problems Solved
-
-🏆 MERN Stack Developer
-
-🏆 Backend Development Enthusiast
-
-🏆 Competitive Programmer
-
-🏆 Gen AI Learner
-
-🏆 Open Source Contributor
-
-🏆 REST API Developer
-
-🏆 Database Design
-
-🏆 Problem Solver
-
-🏆 Fast Learner
-
----
-
-# 🚀 Featured Projects
-
-## 📌 AI DPR Evaluation System
-
-### Tech Stack
-
-- React
-- Node.js
-- Express.js
-- PostgreSQL
-- Python
-- Gen AI
-
-### Features
-
-- AI-powered DPR Evaluation
-- Flood Risk Analysis
-- Compliance Scoring
-- Smart Recommendation Engine
-- Authentication
-- Dashboard
-- Report Generation
-
----
-
-## 📌 Inventory Management System
-
-### Tech Stack
-
-- Node.js
-- Express.js
-- PostgreSQL
-- Docker
-
-### Features
-
-- Supplier Management
-- Product Management
-- Inventory Tracking
-- REST APIs
-- Authentication
-- JWT
-- CRUD Operations
-
----
-
-## 📌 Student API
-
-### Tech Stack
-
-- Golang
-- SQLite
-- REST API
-
-### Features
-
-- CRUD APIs
-- Authentication
-- Clean Architecture
-- Middleware
-- Validation
-
----
-
-## 📌 Portfolio Website
-
-### Tech Stack
-
-- React
-- Tailwind CSS
-- Vercel
-
-### Features
-
-- Responsive UI
-- Project Showcase
-- Contact Form
-- Modern Design
-
----
-
-# 💻 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| C | ⭐⭐⭐⭐⭐ |
-| C++ | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐⭐ |
-| Node.js | ⭐⭐⭐⭐☆ |
-| React | ⭐⭐⭐⭐☆ |
-| Express.js | ⭐⭐⭐⭐☆ |
-| Go | ⭐⭐⭐☆☆ |
-| Python | ⭐⭐⭐☆☆ |
-| Java | ⭐⭐⭐☆☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-
----
-
-# 🛠 Backend Skills
-
-✔ REST APIs
-
-✔ Authentication
-
-✔ JWT
-
-✔ Cookies
-
-✔ Express
-
-✔ Node
-
-✔ PostgreSQL
-
-✔ MySQL
-
-✔ SQLite
-
-✔ MongoDB Basics
-
-✔ Docker
-
-✔ Redis Basics
-
-✔ API Security
-
-✔ Middleware
-
-✔ MVC
-
-✔ Clean Architecture
-
----
-
-# ⚙ Frontend Skills
-
-✔ React
-
-✔ Next.js Basics
-
-✔ HTML5
-
-✔ CSS3
-
-✔ Tailwind CSS
-
-✔ JavaScript
-
-✔ TypeScript Basics
-
-✔ Responsive Design
-
-✔ Axios
-
-✔ Fetch API
-
----
-
-# ☁ DevOps & Tools
-
-✔ Git
-
-✔ GitHub
-
-✔ Docker
-
-✔ Linux
-
-✔ VS Code
-
-✔ Postman
-
-✔ Vercel
-
-✔ Render
-
-✔ npm
-
-✔ yarn
-
----
-
-# 📖 Currently Exploring
-
-- Kubernetes
-
-- AWS
-
-- CI/CD
-
-- Microservices
-
-- Kafka
-
-- Redis
-
-- Nginx
-
-- API Gateway
-
-- Reverse Proxy
-
-- Load Balancing
-
-- System Design
-
-- Design Patterns
-
-- LLD
-
-- HLD
-
-- Gen AI
-
----
-
 # 📅 2026 Roadmap
 
 ✅ Become Expert in Backend
@@ -533,40 +264,7 @@ mohitkumawat221004@gmail.com
 | B.Tech in Computer Science & Engineering | NIT Srinagar | 2023 - 2027 |
 
 ---
-
-# 💼 Experience
-
-## 🚀 Full Stack Developer
-
-- Building scalable MERN applications
-- REST API Development
-- Authentication & Authorization
-- Database Design
-- Docker Deployment
-
----
-
-## 💻 Competitive Programmer
-
-- 700+ DSA Problems Solved
-- Regular LeetCode & Codeforces Participant
-- Strong problem-solving skills
-- Optimized algorithm development
-
----
-
-# 📜 Certifications
-
-- ✔ Data Structures & Algorithms
-- ✔ Backend Development
-- ✔ JavaScript
-- ✔ Node.js
-- ✔ SQL
-- ✔ Git & GitHub
-
-> *(Replace these with your actual certifications and links.)*
-
----
+ 
 
 # 🌟 Open Source
 
@@ -583,65 +281,7 @@ Interested in:
 - Bug Fixes
 
 ---
-
-# 📂 Featured Repositories
-
-### 🤖 AI DPR Evaluation System
-
-- AI-powered DPR analysis
-- Flood Risk Prediction
-- Compliance Scoring
-- Report Generation
-
----
-
-### 📦 Inventory Management System
-
-- Supplier Management
-- Product Management
-- Authentication
-- Docker
-- PostgreSQL
-
----
-
-### 🎓 Student API
-
-- Go
-- SQLite
-- JWT
-- REST API
-
----
-
-### 🌐 Portfolio Website
-
-- React
-- Tailwind CSS
-- Responsive Design
-
----
-
-# 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-C++          ███████████░░░░░░░░░   40%
-
-JavaScript   █████████░░░░░░░░░░   30%
-
-React        ██████░░░░░░░░░░░░░   15%
-
-Node.js      ████░░░░░░░░░░░░░░░   10%
-
-Others       ██░░░░░░░░░░░░░░░░░    5%
-```
-
-<!--END_SECTION:waka-->
-
----
-
+  
 # 📅 GitHub Calendar
 
 <p align="center">
@@ -661,41 +301,6 @@ Others       ██░░░░░░░░░░░░░░░░░    5%
 </p>
 
 > **Note:** To make the snake animation work, you need to add a GitHub Actions workflow that generates the SVG automatically.
-
----
-
-# 💬 Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧠 Coding Philosophy
-
-> First, solve the problem.
-
-> Then, write clean code.
-
-> Finally, optimize.
-
----
-
-# 🎯 2026 Goals
-
-- ✅ 1000+ LeetCode Problems
-- ✅ Expert on Codeforces
-- ✅ Master Backend Development
-- ✅ Learn Kubernetes
-- ✅ Learn AWS
-- ✅ Learn Redis
-- ✅ Learn Kafka
-- ✅ Master System Design
-- ✅ Contribute to Open Source
-- ✅ Build Production-Ready SaaS Projects
 
 ---
 

@@ -31,10 +31,6 @@
 - 💻 Passionate Software Developer
 
 - 🌱 Currently learning
-
-  - React.js
-  - Node.js
-  - Express.js
   - PostgreSQL
   - Docker
   - Gen AI
